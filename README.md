@@ -1,0 +1,2 @@
+# CDNTest
+localization manager
